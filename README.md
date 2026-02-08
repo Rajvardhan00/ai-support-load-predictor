@@ -42,7 +42,7 @@ https://huggingface.co/spaces/00Raj007/ai-support-load-predictor
 
 ## Model Management
 
-The trained model (load_model.pkl) is stored in a dedicated Hugging Face Model repository:
+The trained model (load_model.pkl) is stored in a dedicated Hugging Face Model repository:-
 
 https://huggingface.co/00Raj007/support-load-model
 
